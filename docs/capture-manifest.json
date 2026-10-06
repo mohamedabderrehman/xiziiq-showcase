@@ -1,0 +1,30 @@
+[
+  {
+    "path": "docs/images/00-projects.jpg",
+    "sha256": "cbf639a4cf7814512d09a6e647f8d0de1f028fa8f5f4b4a3b4d067d81b78a338",
+    "scope": "Live public website capture",
+    "review_date": "2026-10-07",
+    "site": "https://xiziiq.com/"
+  },
+  {
+    "path": "docs/images/contact.jpg",
+    "sha256": "a1edfdba33b930e724034134cc9f8dfa23a74f0db32e5680ea22ac1c72f092d1",
+    "scope": "Live public website capture",
+    "review_date": "2026-10-07",
+    "site": "https://xiziiq.com/"
+  },
+  {
+    "path": "docs/images/home.jpg",
+    "sha256": "288ad0c3e165009728435ef8ce105adb1967c9657d4d2ede9884415336f54233",
+    "scope": "Live public website capture",
+    "review_date": "2026-10-07",
+    "site": "https://xiziiq.com/"
+  },
+  {
+    "path": "docs/images/project-filter.jpg",
+    "sha256": "96bce1074126280f5a454edcbe6012dbc54b3b17e29b3b6ce588bc80a6a810a4",
+    "scope": "Live public website capture",
+    "review_date": "2026-10-07",
+    "site": "https://xiziiq.com/"
+  }
+]
