@@ -4,7 +4,7 @@
 
 **موقع منشور · شيفرة التطبيق خاصة · مستودع توثيق وصور فقط**
 
-[الموقع المنشور](https://xiziiq.com/) · [دراسة المعرض](https://mohamed-abderrehmane-portfolio.hillock-factual9mupt.chatgpt.site/ar/projects/xiziiq/)
+[الموقع المنشور](https://xiziiq.com/) · [دراسة المعرض](https://mohamedabderrehmane.netlify.app/ar/projects/xiziiq/)
 
 ![شيزي العراق — Xiziiq](docs/images/00-projects.jpg)
 
