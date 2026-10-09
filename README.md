@@ -4,7 +4,7 @@ Dynamic bilingual elevator website and project showcase
 
 **Live website · Private application source · Documentation and screenshots only**
 
-[Live website](https://xiziiq.com/) · [Portfolio case study](https://mohamed-abderrehmane-portfolio.hillock-factual9mupt.chatgpt.site/projects/xiziiq/)
+[Live website](https://xiziiq.com/) · [Portfolio case study](https://mohamedabderrehmane.netlify.app/projects/xiziiq/)
 
 ![XIZI Iraq — Xiziiq](docs/images/00-projects.jpg)
 
